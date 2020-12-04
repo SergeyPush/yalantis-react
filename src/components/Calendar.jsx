@@ -31,7 +31,7 @@ const Calendar = () => {
 
   return (
     <div className="calendar">
-      <h1 className="calendar-title">Employees Birsdays</h1>
+      <h1 className="calendar-title">Employees Birthday</h1>
 
       <>
         {userList.length > 0 ? (
