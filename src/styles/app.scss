@@ -1,0 +1,21 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.app{
+    margin: 0rem 5rem;
+    padding: 5rem 0rem;
+    display: flex;
+    font-family:"Nunito", sans-serif;
+    color: rgba($color: #000000, $alpha: 0.8);
+}
+h1{
+    font-weight: 600;
+}
+
+
+
+@import './contacts';
+@import './calendar';

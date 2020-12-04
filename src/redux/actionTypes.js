@@ -1,0 +1,4 @@
+export const FETCH_USERS = "FETCH_USERS";
+export const HANDLE_USER = "HANDLE_USER";
+export const SELECT_USER = "SELECT_USER";
+export const RESTORE_SELECTED = "RESTORE_SELECTED";
